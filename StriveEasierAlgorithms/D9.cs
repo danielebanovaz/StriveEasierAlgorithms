@@ -3,7 +3,7 @@
 
     # Implement your own version of Binary Search  #
     
-    Extend our StriveEasierAlgorithms project [THIS ONE]
+    Extend our StriveEasierAlgorithms project [https://github.com/danielebanovaz/StriveEasierAlgorithms]
     by adding a class that's capable of finding an item inside an array or list of integers
     by using the Binary Search algorithm
 
